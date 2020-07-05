@@ -8,6 +8,8 @@ public class DemoGradleMybatisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGradleMybatisApplication.class, args);
+
+		System.out.println("Welcome");
 	}
 
 }
